@@ -1,20 +1,12 @@
 {
   "更新时间": "2019年8月16号",
   "文件": [
-    {
-      "文件名": "标准集装箱规格.pdf",
-      "后缀名": ".pdf",
-      "文件大小": "66KB",
-      "文件地址": "https://raw.githubusercontent.com/linyugeng1225/qinocean/master/%E6%A0%87%E5%87%86%E9%9B%86%E8%A3%85%E7%AE%B1%E8%A7%84%E6%A0%BC.pdf",
-      "是否为图片": "否",
-      "更新日期": "2019年8月19号"
-    },
-    {
-      "文件名": "电放保函格式.doc",
-      "后缀名": ".doc",
-      "文件大小": "41KB",
-      "文件地址": "https://raw.githubusercontent.com/linyugeng1225/qinocean/master/%E7%94%B5%E6%94%BE%E4%BF%9D%E5%87%BD%E6%A0%BC%E5%BC%8F.doc",
-      "是否为图片": "否",
+  {
+      "文件名": "营业执照1.jpg",
+      "后缀名": ".jpg",
+      "文件大小": "104KB",
+      "文件地址": "http://www.qinocean.cn/DownLoad/2019081901241024.jpg",
+      "是否为图片": "是",
       "更新日期": "2019年8月19号"
     },
     {
@@ -26,11 +18,27 @@
       "更新日期": "2019年8月19号"
     },
     {
-      "文件名": "营业执照1.jpg",
-      "后缀名": ".jpg",
-      "文件大小": "104KB",
-      "文件地址": "http://www.qinocean.cn/DownLoad/2019081901241024.jpg",
-      "是否为图片": "是",
+      "文件名": "标准集装箱规格.pdf",
+      "后缀名": ".pdf",
+      "文件大小": "66KB",
+      "文件地址": "https://raw.githubusercontent.com/linyugeng1225/qinocean/master/%E6%A0%87%E5%87%86%E9%9B%86%E8%A3%85%E7%AE%B1%E8%A7%84%E6%A0%BC.pdf",
+      "是否为图片": "否",
+      "更新日期": "2019年8月19号"
+    },
+    {
+      "文件名": "内贸托运单格式.doc",
+      "后缀名": ".doc",
+      "文件大小": "64KB",
+      "文件地址": "https://raw.githubusercontent.com/linyugeng1225/qinocean/master/%E5%86%85%E8%B4%B8%E6%89%98%E8%BF%90%E5%8D%95%E6%A0%BC%E5%BC%8F.doc",
+      "是否为图片": "否",
+      "更新日期": "2019年8月19号"
+    },
+    {
+      "文件名": "外贸托运单格式new.xls",
+      "后缀名": ".xls",
+      "文件大小": "48KB",
+      "文件地址": "https://raw.githubusercontent.com/linyugeng1225/qinocean/master/%E5%A4%96%E8%B4%B8%E6%89%98%E8%BF%90%E5%8D%95%E6%A0%BC%E5%BC%8Fnew.xls",
+      "是否为图片": "否",
       "更新日期": "2019年8月19号"
     },
     {
@@ -49,19 +57,12 @@
       "是否为图片": "否",
       "更新日期": "2019年8月19号"
     },
+    
     {
-      "文件名": "内贸托运单格式.doc",
+      "文件名": "电放保函格式.doc",
       "后缀名": ".doc",
-      "文件大小": "64KB",
-      "文件地址": "https://raw.githubusercontent.com/linyugeng1225/qinocean/master/%E5%86%85%E8%B4%B8%E6%89%98%E8%BF%90%E5%8D%95%E6%A0%BC%E5%BC%8F.doc",
-      "是否为图片": "否",
-      "更新日期": "2019年8月19号"
-    },
-    {
-      "文件名": "外贸托运单格式new.xls",
-      "后缀名": ".xls",
-      "文件大小": "48KB",
-      "文件地址": "https://raw.githubusercontent.com/linyugeng1225/qinocean/master/%E5%A4%96%E8%B4%B8%E6%89%98%E8%BF%90%E5%8D%95%E6%A0%BC%E5%BC%8Fnew.xls",
+      "文件大小": "41KB",
+      "文件地址": "https://raw.githubusercontent.com/linyugeng1225/qinocean/master/%E7%94%B5%E6%94%BE%E4%BF%9D%E5%87%BD%E6%A0%BC%E5%BC%8F.doc",
       "是否为图片": "否",
       "更新日期": "2019年8月19号"
     }
