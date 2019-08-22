@@ -1,5 +1,5 @@
 {
-  "更新时间": "",
+  "更新时间": "2019年8月22号",
   "起运港": [
     "汕头",
     "深圳"
@@ -12,38 +12,38 @@
   ],
   "汕头": {
     "place1": {
-      "40HQ": "USDxxx",
-      "20HQ": "USDxxx"
+      "40HQ": "USD10086",
+      "20HQ": "US10000"
     },
     "place2": {
-      "40HQ": "USDxxx",
-      "20HQ": "USDxxx"
+      "40HQ": "USD12345",
+      "20HQ": "USD12300"
     },
     "place3": {
-      "40HQ": "USDxxx",
-      "20HQ": "USDxxx"
+      "40HQ": "USD10000",
+      "20HQ": "USD9000"
     },
     "place4": {
-      "40HQ": "USDxxx",
-      "20HQ": "USDxxx"
+      "40HQ": "USD202020",
+      "20HQ": "USD200000"
     }
   },
   "深圳": {
     "place1": {
-      "40HQ": "USDxxx",
-      "20HQ": "USDxxx"
+      "40HQ": "USD10086",
+      "20HQ": "US10000"
     },
     "place2": {
-      "40HQ": "USDxxx",
-      "20HQ": "USDxxx"
+      "40HQ": "USD12345",
+      "20HQ": "USD12300"
     },
     "place3": {
-      "40HQ": "USDxxx",
-      "20HQ": "USDxxx"
+      "40HQ": "USD10000",
+      "20HQ": "USD9000"
     },
     "place4": {
-      "40HQ": "USDxxx",
-      "20HQ": "USDxxx"
+      "40HQ": "USD202020",
+      "20HQ": "USD200000"
     }
   }
 }
